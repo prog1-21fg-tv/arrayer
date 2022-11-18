@@ -62,11 +62,6 @@ console.log(names); // Mohammed, Kim, Yngve, Helga, Lisa
 names.splice(0,2,"Berit", "Ceasar", "Doris"); // börja på index 0, ta bort 2 poster, lägg till Berit, Ceasar, Doris
 console.log(names); // Berit, Ceasar, Doris, Yngve, Helga, Lisa
 
-// AVANCERADE FUNKTIONER
-
-// map
-
-// sort
 
 
 // sortera arrayen
